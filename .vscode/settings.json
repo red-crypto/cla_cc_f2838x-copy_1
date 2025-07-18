@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "compare": "c",
+        "cstddef": "c",
+        "limits": "c",
+        "type_traits": "c",
+        "xmemory": "c",
+        "xutility": "c",
+        "system_header.h": "c",
+        "asdf.h": "c",
+        "system_timer.h": "c",
+        "step_motor.h": "c",
+        "board.h": "c",
+        "driverlib.h": "c",
+        "device.h": "c",
+        "stdint.h": "c",
+        "stdio.h": "c"
+    }
+}
